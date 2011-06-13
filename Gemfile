@@ -8,8 +8,6 @@ gem 'rake', '0.8.7'
 
 gem 'sqlite3'
 
-gem 'win32console'
-
 # Use unicorn as the web server
 # gem 'unicorn'
 
